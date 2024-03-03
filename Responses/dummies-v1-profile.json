@@ -1,0 +1,42 @@
+﻿{
+  "scenarioName": "C#-Simulator",
+  "request": {
+    "method": "POST",
+    "url": "/dummies/v1/profile"
+  },
+  "response": {
+    "status": 200,
+    "fixedDelayMilliseconds": 400,
+    "headers": {
+      "X-Simulator": "C#-Simulator",
+      "Content-Type": "application/json;charset=UTF-8",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "POST",
+      "Access-Control-Allow-Credential": "true",
+      "Access-Control-Allow-Headers": "accept, content-type"
+    },
+    "jsonBody": {
+      "data": [
+        {
+          "idTransaction": "87c5702d-f452-475a-843b-605fc7eaba53",
+          "postingDate": "2020-08-06",
+          "timeEntered": "16:45:07",
+          "recordSequence": "393",
+          "fileName": null,
+          "fileFlag": null,
+          "batchNumber": "1",
+          "sequenceNumber": "393",
+          "transactionAmount": 80000,
+          "ledgerBalance": 45929089.21,
+          "repeatedSeq": null
+        }
+      ],
+      "dataHeader": {
+        "code": "00",
+        "message": "Success",
+        "noOfRecordsToRetrieve": 9,
+        "hasMore": "N"
+      }
+    }
+  }
+}

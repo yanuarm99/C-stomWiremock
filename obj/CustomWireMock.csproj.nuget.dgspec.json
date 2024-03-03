@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\CustomWireMock.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\CustomWireMock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\CustomWireMock.csproj",
+        "projectName": "CustomWireMock",
+        "projectPath": "c:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\CustomWireMock.csproj",
+        "packagesPath": "C:\\Users\\Automation_3\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Automation_3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "WireMock.Net": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.FluentAssertions": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.Matchers.CSharpCode": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.OpenApiParser": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.RestClient": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.StandAlone": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.Testcontainers": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            },
+            "WireMock.Net.xUnit": {
+              "target": "Package",
+              "version": "[1.5.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WireMock.Net" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.FluentAssertions" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.Matchers.CSharpCode" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.OpenApiParser" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.RestClient" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.StandAlone" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.Testcontainers" Version="1.5.47" />
+    <PackageReference Include="WireMock.Net.xUnit" Version="1.5.47" />
+  </ItemGroup>
+
+</Project>
