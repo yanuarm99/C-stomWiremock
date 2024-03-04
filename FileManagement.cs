@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 namespace CustomWireMock
 {
 
-	public class JsonResponseTemplate
+    public class JsonResponseTemplate
 	{
 		private string method;
 		private string url;

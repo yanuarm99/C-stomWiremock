@@ -1,10 +1,8 @@
-using Microsoft.Extensions.Logging;
 using Newtonsoft.Json.Linq;
 using WireMock.Server;
 using WireMock.RequestBuilders;
 using WireMock.ResponseBuilders;
 using WireMock.Settings;
-using Serilog;
 
 namespace CustomWireMock
 {
