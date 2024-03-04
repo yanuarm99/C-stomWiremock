@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "flncdZk/JoB+re3YzEygNuyGaKqP2fUe/HcjjIs1IR6hBSTCg5mpIn/yKDZFDiTyTKrN753wFiagg8nLcrgYpQ==",
+  "dgSpecHash": "+z8LCT+DUYGZ4zJZZO8J24AoWz0fW7QR0hJmWG3ervhyTZ+OMsZnM5fpZxkgeGq4G1MeqUL9vVVsJsarq7mwgw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\CustomWireMock.csproj",
+  "projectFilePath": "C:\\Users\\Automation_3\\source\\repos\\CustomWiremock\\CustomWireMock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Automation_3\\.nuget\\packages\\anyof\\0.3.0\\anyof.0.3.0.nupkg.sha512",
     "C:\\Users\\Automation_3\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
@@ -120,6 +120,8 @@
     "C:\\Users\\Automation_3\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Automation_3\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Automation_3\\.nuget\\packages\\scriban.signed\\5.5.0\\scriban.signed.5.5.0.nupkg.sha512",
+    "C:\\Users\\Automation_3\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\Automation_3\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\Automation_3\\.nuget\\packages\\sharpyaml\\1.6.5\\sharpyaml.1.6.5.nupkg.sha512",
     "C:\\Users\\Automation_3\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
     "C:\\Users\\Automation_3\\.nuget\\packages\\simmetrics.net\\1.0.5\\simmetrics.net.1.0.5.nupkg.sha512",

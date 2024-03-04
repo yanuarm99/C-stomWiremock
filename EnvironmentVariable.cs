@@ -1,12 +1,4 @@
-﻿using WireMock.Server;
-using WireMock.RequestBuilders;
-using WireMock.ResponseBuilders;
-using System;
-using System.IO;
-using System.Text.RegularExpressions;
-using WireMock.Settings;
-
-namespace CustomWireMock
+﻿namespace CustomWireMock
 {
     internal class EnvironmentVariable
     {        

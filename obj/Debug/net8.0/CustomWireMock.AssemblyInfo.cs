@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomWireMock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b61c2a4321e2fc6559adad9abe416d95241e46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66365ddcf81c0272695ca9b4db4e1f13ddac43d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomWireMock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomWireMock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,18 +1,10 @@
-﻿using WireMock.Server;
-using WireMock.RequestBuilders;
-using WireMock.ResponseBuilders;
-using System;
-using System.IO;
-using System.Text.RegularExpressions;
-using WireMock.Settings;
-
-namespace CustomWireMock
+﻿namespace CustomWireMock
 {
     internal class Program
     {
         internal static void Main(string[] args)
         {
-            Console.WriteLine("Selamat datang di Program C#stomWireMock!");
+            Console.WriteLine("Selamat datang di Program C#stoMock!");
             Console.WriteLine("Silakan pilih opsi:");
             Console.WriteLine("1. Jalankan WireMock Server");
             Console.WriteLine("2. Tambahkan Response JSON");
@@ -44,7 +36,7 @@ namespace CustomWireMock
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Terima kasih telah menggunakan Program C#stomWireMock!");
+            Console.WriteLine("Terima kasih telah menggunakan Program C#stoMock!");
         }
     }
 }
